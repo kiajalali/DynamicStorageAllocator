@@ -1,0 +1,51 @@
+{
+  "amptjp-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   92%    5694  0.000362   15716"
+  },
+  "cccp-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   94%    5848  0.000283   20635"
+  },
+  "cp-decl-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   95%    6648  0.000570   11667"
+  },
+  "expr-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   97%    5380  0.000482   11157"
+  },
+  "coalescing-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   99%   14400  0.000339   42453"
+  },
+  "random-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   86%    4800  0.000614    7821"
+  },
+  "random2-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   84%    4800  0.000680    7061"
+  },
+  "binary-bal.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   55%   12000  0.004770    2516"
+  },
+  "binary-bal2.rep": {
+    "mark": 5,
+    "comment": "Program ran and output matched. 0       yes   55%   12000  0.004563    2630"
+  },
+  "short-malloc_realloc.rep": {
+    "mark": 2,
+    "comment": "Program ran and output matched. 0       yes   25%       6  0.000013   476"
+  },
+  "realloc-bal.rep": {
+    "mark": 2,
+    "comment": "Program ran and output matched. 0       yes   49%   14401  0.112306   128"
+  },
+  "performance": {
+    "mark": 10,
+    "comment": "Program ran and output matched.Perf index = 50 (util) + 40 (thru) = 90/100"
+  },
+  "userid": "GithubID:assignment-5-bigboigit"
+}
